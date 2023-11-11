@@ -1,3 +1,6 @@
+![Picsart_23-11-11_13-27-13-507](https://github.com/Arturo254/zish/assets/87346871/9d319bdf-2865-4236-83d4-2502b930e2be)
+
+
 # zish
 Una pequeña confirmación de iconos para el tema "Zish" de oh my fish
 ### Previsualización:
